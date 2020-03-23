@@ -32,5 +32,11 @@ Work In Progress - Awesome List for ml5js
 ## Presentations & Talks
 > Any talks or presentations where ml5.js is used or mentioned
 
+- [EYEO 2018 - Hannah Davis, DATA, MUSIC, AND EMOTION](https://vimeo.com/287093751)
+  - Hannah Davis introduces ml5.js for the first time at EyeO 2018.
+- [EYEO 2019, Dan Shiffman, CODING TRAIN - LIVE!](https://vimeo.com/354276216)
+  - Dan showcases ml5.js's integration with Google's Teachable Machine at EyeO 2019.
+
+
 ## Projects
 > Any projects that showcase creative or critical uses of ml5.js that speak to the mission and ethos of the ml5.js project
